@@ -1,0 +1,8 @@
+flask==2.0.1
+flask-cors==3.0.10
+pandas
+pytesseract==0.3.8
+Pillow
+PyPDF2==2.10.5
+openpyxl==3.0.9
+werkzeug==2.0.1
